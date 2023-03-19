@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `serve -s build`
 
-To start the client app in the production mode.
+To start the client app in the production mode. That is the preferred way of starting this application.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
