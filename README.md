@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# The New York Times bestsellers app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A client side for a website that uses The New York Times Books API to display available bestseller lists, top 10 books and their reviews.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `serve -s build`
+
+To start the client app in the production mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 
 ### `npm start`
 
