@@ -1,0 +1,62 @@
+.bestsellers-top10-container {
+    flex-direction: row;
+    width: 100%;
+    flex: 2;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.bestsellers-top10-button {
+  flex: 1;
+  flex-direction: row;
+  list-style: none;
+  font-size: 1rem;
+  width: 45%;
+  height: auto;
+  min-height: 110px;
+  max-width: 45%;
+  padding: 2px;
+  margin-top: 0.7rem;
+  margin-left: 1rem;
+  border-radius: 2px;
+  border-width: 1px;
+  border-color: #333;
+  cursor: pointer;
+}
+
+.bestsellers-top10-button:hover {
+    background-color: #999;
+}
+
+.bestsellers-top10-button:hover * {
+    background-color: #999;
+}
+
+.bestsellers-top10-button * {
+    text-align: left;
+    display: flex;
+    align-items: top;
+    padding-left: 8px;
+}
+
+.bestsellers-top10-container h1 {
+    padding-top: 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.top10 {
+    margin-top: 1px;
+    margin-bottom: 20px;
+}
+
+.bestsellers-top10-button h3 {
+    padding-top: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bestsellers-top10-button div {
+    margin-top: 3px;
+    font-style: italic;
+}

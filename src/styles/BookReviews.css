@@ -1,0 +1,44 @@
+.book-reviews-container {
+    width: 100%;
+    margin-top: 1rem;
+    text-align: left;
+}
+
+.book-review {
+    margin-top: 3rem;
+}
+
+.book-reviews-container * {
+    text-align: left;
+    padding-left: 3rem;
+}
+
+.book-reviews-container h3 {
+    padding-left: 2rem;
+    margin-bottom: 0px;
+    font-weight: 700;
+}
+
+.book-reviews-container h1 {
+    padding-left: 2rem;
+    margin-top: 0px;
+}
+
+.book-review a {
+    font-size: large;
+}
+
+.book-review p {
+    margin-bottom: 0px;
+}
+
+.book-review div {
+    font-style: italic;
+    text-decoration: underline;
+    color: blue;
+}
+
+.book-review div:hover {
+    color:cornflowerblue;
+    cursor: pointer;
+}
